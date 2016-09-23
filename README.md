@@ -1,4 +1,4 @@
-### RESEARCH DATA MANAGEMENT
+### DATA MANAGEMENT
 #### Commonly used file and folder manipulation commands
 In this notebook, I gather my commonly used python bits for file and folder manipulation. If you work with many different samples, tools and programs and frequently find yourself adding, deleting, renaming or replacing large numbers of files and/or directories, you might find this notebook useful. There are undoubtedly better ways of doing some of these things so feel free to suggest improvements.
 
